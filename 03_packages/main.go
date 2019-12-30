@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoTrial/03_pakages/strutil"
+	"GoTrial/03_packages/strutil"
 	"fmt"
 	"math"
 )
